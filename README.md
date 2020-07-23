@@ -6,7 +6,7 @@ I am studying Information Systems at State University of Campinas. I love learni
 
 - Learning and programming in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Learning Cyber Security
-- I would like to become a professor
+- I would like to become a professor and a research. 
 - I love sharing my knowledges  
 - 📫 How to reach me:
 
