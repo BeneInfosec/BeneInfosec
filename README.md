@@ -1,6 +1,6 @@
-### Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">
+### Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px">
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming | :black_heart: Information Security | :blue_heart: Anime
   
 I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
