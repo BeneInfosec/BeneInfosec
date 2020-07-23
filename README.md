@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="34px">
+  
+Programming | Information Security 
+  
+I am studying Information Systems at State University of Campinas. I love learning about Ethical Hacking and Back-end development.
 
-<!--
-**Laribene/Laribene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Learning and programming in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Learning Cyber Security
+- I would like to become a professor
+- I love sharing my knowledges  
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Laribene) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/larissa-benevides/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](l200805@dac.unicamp.br)
+|---|---|---|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
