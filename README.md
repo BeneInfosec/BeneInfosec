@@ -10,8 +10,8 @@ I am studying Information Systems at State University of Campinas. I love learni
 - I love sharing my knowledges  
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Laribene) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/larissa-benevides/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](l200805@dac.unicamp.br)
-|---|---|---|
+|  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/larissa-benevides/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](l200805@dac.unicamp.br)
+|---|---|
 
 
 
