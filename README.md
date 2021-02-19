@@ -2,10 +2,13 @@
   
 Programming | Information Security 
   
-I am studying Information Systems at State University of Campinas. I love learning about Ethical Hacking and Back-end development.
+I am studying Information Systems at State University of Campinas and interning in [SiDi](https://www.sidi.org.br/) in Software Security for IOT. :books:
+
+I love learning about Ethical Hacking and Back-end development. :heart:
 
 - Learning and programming in Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Learning Cyber Security
+- Learning Data Mining
 - I would like to become a professor and a research. 
 - I love sharing my knowledges  
 - 📫 How to reach me:
