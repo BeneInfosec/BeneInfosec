@@ -2,7 +2,7 @@
   
 Programming | Information Security 
   
-I am studying Information Systems at [State University of Campinas](https://www.unicamp.br/unicamp/) and interning in [SiDi](https://www.sidi.org.br/) in Software Security for IOT. :books:
+I am studying Information Systems at [State University of Campinas](https://www.unicamp.br/unicamp/) and interning in [SiDi](https://www.sidi.org.br/) in Software Security for IoT. :books:
 
 I love learning about Ethical Hacking and Back-end development. :heart:
 
