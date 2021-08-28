@@ -23,7 +23,7 @@ Adoro aprender sobre <i>Ethical Hacking</i> e Desenvolvimento <i>Back-end</i>.
 
 - Aprendendo sobre Segurança da Informação (Desenvolvimento Seguro de Software e Segurança Ofensiva) <a href="https://github.com/Laribene/Estudos-em-Seguranca-da-Informacao">Veja Aqui</a>
 
-- Aprendendo sobre <i>Machine Learning</i> (<i>Deep Learning</i>) para meu TCC. 
+- Aprendendo sobre <i>Machine Learning</i> (<i>Deep Learning</i>) para meu TCC. [Veja Aqui](https://github.com/Laribene/MachineLearning)
   
 - Me aperfeiçoando na linguagem Python. [Veja Aqui](https://github.com/Laribene/Desafios-AceleraDev-Python)
   
