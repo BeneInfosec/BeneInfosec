@@ -1,10 +1,10 @@
 <h1 align="center"><i>Hello World</i> :earth_americas:, Eu sou a Larissa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />  </h1>
-<h3 align="center">Programação e Segurança da Informação são minhas áreas de estudo!   </h3>
+<h3 align="center">Desenvolvimento Seguro de Software e Segurança da Informação são minhas áreas de estudo!   </h3>
 
 <div align="center">
 Atualmente estou cursando Sistemas de Informação na <a href="https://www.unicamp.br/unicamp/">Universidade Estadual de Campinas</a> e estagiando no <a href="https://www.sidi.org.br/">SiDi</a> em Segurança de Software para IoT. :books: <br>
 
-Adoro aprender sobre <i>Ethical Hacking</i> e Desenvolvimento <i>Back-end</i>.
+Adoro aprender sobre <i>Ethical Hacking</i> e Desenvolvimento Seguro de Software.
 </br>
 </br>
 </br>
