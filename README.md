@@ -1,11 +1,12 @@
 <h1 align="center"><i>Hello World</i> :earth_americas:, Eu sou a Larissa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />  </h1>
-<h3 align="center">Desenvolvimento Seguro de Software e Segurança da Informação são minhas áreas de estudo!   </h3>
 
 <div align="center">
-Atualmente estou cursando Sistemas de Informação na <a href="https://www.unicamp.br/unicamp/">Universidade Estadual de Campinas</a> e estagiando no <a href="https://www.sidi.org.br/">SiDi</a> em Segurança de Software para IoT. :books: <br>
+<h3> Atualmente estou cursando Sistemas de Informação na <a href="https://www.unicamp.br/unicamp/">Universidade Estadual de Campinas</a> e trabalhando como Analista de Segurança de Aplicações (AppSec) no  <a href="https://www.btgpactual.com/">BTG Pactual</a>. :woman_technologist: <br> </h3>
 
-Adoro aprender sobre <i>Ethical Hacking</i> e Desenvolvimento Seguro de Software.
+<! -- Adoro aprender sobre Segurança Ofensiva e Desenvolvimento Seguro de Software. -->
 </br>
+<! -- Quero ser professora e pesquisadora futuramente. -->
+
 </br>
 </br>
 </div>
@@ -20,14 +21,14 @@ Adoro aprender sobre <i>Ethical Hacking</i> e Desenvolvimento Seguro de Software
 <br>
 
   <div>
+<b>Veja meus estudos sobre:</b>
+</br>
 
-- Aprendendo sobre Segurança da Informação (Desenvolvimento Seguro de Software e Segurança Ofensiva) <a href="https://github.com/Laribene/Estudos-em-Seguranca-da-Informacao">Veja Aqui</a>
+- <a href="https://github.com/Laribene/Estudos-em-Seguranca-da-Informacao">Segurança da Informação (Desenvolvimento Seguro de Software e Segurança Ofensiva)</a>
 
-- Aprendendo sobre <i>Machine Learning</i> (<i>Deep Learning</i>) para meu TCC. [Veja Aqui](https://github.com/Laribene/MachineLearning)
+-  [<i>Machine Learning</i> (<i>Deep Learning</i>) para meu Trabalho de Conclusão de Curso.](https://github.com/Laribene/MachineLearning)
   
-- Me aperfeiçoando na linguagem Python. [Veja Aqui](https://github.com/Laribene/Desafios-AceleraDev-Python)
-  
-- Almejo ser professora e pesquisadora futuramente!
+- [Linguagem de programação Python](https://github.com/Laribene/Desafios-AceleraDev-Python)
 
 </div>
 <br>
