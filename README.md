@@ -11,7 +11,7 @@
 </br>
 </div>
 
-<div style="text-align: center"><img alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="400" width="400"></div>
+<p align="center"><img alt="GIF" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="400" width="400"/></p>
 
 <div align="center">
 <h3>Entre em contato comigo:</h3>
