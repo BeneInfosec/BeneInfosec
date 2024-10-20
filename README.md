@@ -1,13 +1,20 @@
 <h1 align="center"><i>Hello World</i> :earth_americas:, Eu sou a Larissa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />  </h1>
 
-<div align="center">
-<h3> Bacharel em Sistemas de Informação pela <a href="https://www.unicamp.br/unicamp/">Universidade Estadual de Campinas</a> e trabalhando como Analista de Segurança de Aplicações (AppSec) no  <a href="https://www.btgpactual.com/">BTG Pactual</a>. :woman_technologist: <br> </h3>
-
-<! -- Adoro aprender sobre Desenvolvimento Seguro de Software e Segurança Ofensiva. -->
-</br>
-<! -- Quero ser professora e pesquisadora futuramente. -->
-
+<div align="left">
+ <ul>
+        <li><h3>Bacharela em Sistemas de Informação pela <a href="https://www.unicamp.br/unicamp/">Universidade Estadual de Campinas</a></h3></li>
+        <li><h3>Pós graduanda em Especialização de Tecnologia Java na <a href="https://www.utfpr.edu.br/">Universidade Tecnológica Federal do Paraná </a></h3></li>
+        <li><h3>Analista de Segurança de Aplicações (AppSec) no  <a href="https://www.btgpactual.com/">BTG Pactual</a><h3></li>
+  </ul>
 </div>
+
+<div align="center">
+      &lt;!-- Desenvolvimento Seguro de Software e Segurança Ofensiva são a minha área --&gt;
+      <br />
+      &lt;!-- Sempre em busca de conhecimento para compartilhá-lo com os demais! --&gt;
+</div>
+
+
 <div align="center">
 <h3>Entre em contato comigo:</h3>
 <p>
