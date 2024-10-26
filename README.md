@@ -3,7 +3,7 @@
 <div align="left">
  <ul>
         <li><h3>Bacharela em Sistemas de Informação pela <a href="https://www.unicamp.br/unicamp/">Universidade Estadual de Campinas</a></h3></li>
-        <li><h3>Pós graduanda em Especialização de Tecnologia Java na <a href="https://www.utfpr.edu.br/">Universidade Tecnológica Federal do Paraná </a></h3></li>
+        <li><h3>Pós graduanda em Tecnologia Java na <a href="https://www.utfpr.edu.br/">Universidade Tecnológica Federal do Paraná </a></h3></li>
         <li><h3>Analista de Segurança de Aplicações (AppSec) no  <a href="https://www.btgpactual.com/">BTG Pactual</a><h3></li>
   </ul>
 </div>
