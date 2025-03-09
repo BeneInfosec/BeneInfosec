@@ -4,7 +4,7 @@
  <ul>
         <li><h3>Bacharela em Sistemas de Informação pela <a href="https://www.unicamp.br/unicamp/">Universidade Estadual de Campinas</a></h3></li>
         <li><h3>Pós graduanda em Tecnologia Java na <a href="https://www.utfpr.edu.br/">Universidade Tecnológica Federal do Paraná </a></h3></li>
-        <li><h3>Senior Application Security Engineer (AppSec) na  <a href="https://www.willowtreeapps.com/">WillowTree</a><h3></li>
+        <li><h3>Senior Application Security Engineer (AppSec) na  <a href="https://www.telusdigital.com/about/locations/brazil?INTCMP=locations_panel-list_brazil">Telus Digital BR</a><h3></li>
   </ul>
 </div>
 
